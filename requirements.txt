@@ -1,0 +1,3 @@
+pytest
+selenium
+git+https://github.com/mihelanjelo/mytestlib.git
